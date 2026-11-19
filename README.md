@@ -1,4 +1,4 @@
-# Implementing AAA Authentication for Network Services
+# Implementing AAA Authentication and Network Services
 
 ## Project Overview
 This project demonstrates the configuration and implementation of AAA authentication for network services using Cisco Packet Tracer. 
