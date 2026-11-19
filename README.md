@@ -18,9 +18,9 @@ The lab focuses on implementing AAA (Authentication, Authorization, and Accounti
 - TCP/IP Networking
 
 ## Network Topology
-<img alt="01-network-topology" src="./topology/01-network-topology.png"></img>
-<img alt="02-network-topology-ISP" src="./topology/02-network-topology-ISP.png"></img>
-<img alt="03-network-topology-HQ" src="./topology/03-network-topology-HQ.png"></img>
+<img alt="01-network-topology" src="https://github.com/Explorelrt/Configure-Access-Control/blob/main/topology/01-network-topology.png"></img>
+<img alt="02-network-topology-ISP" src="https://github.com/Explorelrt/Configure-Access-Control/blob/main/topology/02-network-topology-ISP.png"></img>
+<img alt="03-network-topology-HQ" src="https://github.com/Explorelrt/Configure-Access-Control/blob/main/topology/03-network-topology-HQ.png"></img>
 
 ## Email User Accounts
 | PC/Laptop | Name | Email Address | Username | Password |
@@ -40,20 +40,20 @@ The lab focuses on implementing AAA (Authentication, Authorization, and Accounti
 
 ### Configure and Use AAA Authentication Credentials
 - Configure user accounts on the AAA-RADIUS server.
-<img alt="04-AAA-server" src="./screenshots/04-AAA-server.png"></img>
+<img alt="04-AAA-server" src="https://github.com/Explorelrt/Configure-Access-Control/blob/main/screenshots/04-AAA-server.png"></img>
 
 - Configure wireless authentication on HQ-Laptop-1.
-<img alt="05-authenticate-HQ-Laptop-1" src="./screenshots/05-authenticate-HQ-Laptop-1.png"></img>
+<img alt="05-authenticate-HQ-Laptop-1" src="https://github.com/Explorelrt/Configure-Access-Control/blob/main/screenshots/05-authenticate-HQ-Laptop-1.png"></img>
 
 - Configure wireless authentication on HQ-Laptop-2.
-<img alt="06-authenticate-HQ-Laptop-2" src="./screenshots/06-authenticate-HQ-Laptop-2.png"></img>
+<img alt="06-authenticate-HQ-Laptop-2" src="https://github.com/Explorelrt/Configure-Access-Control/blob/main/screenshots/06-authenticate-HQ-Laptop-2.png"></img>
 
 ### Configure and Use Email Services
 - Activate email services and configure email user accounts.
-<img alt="07-email-services" src="./screenshots/07-email-services.png"></img>
+<img alt="07-email-services" src="https://github.com/Explorelrt/Configure-Access-Control/blob/main/screenshots/07-email-services.png"></img>
 
 - Configure email clients.
-<img alt="08-email-clients" src="./screenshots/08-configure-email-clients.png"></img>
+<img alt="08-email-clients" src="https://github.com/Explorelrt/Configure-Access-Control/blob/main/screenshots/08-configure-email-clients.png"></img>
 
 - Send an email as So-Ia.
 <img alt="09-email-sent" src="./screenshots/09-email-sent.png"></img>
