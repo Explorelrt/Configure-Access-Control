@@ -18,7 +18,7 @@ The lab focuses on implementing AAA (Authentication, Authorization, and Accounti
 - TCP/IP Networking
 
 ## Network Topology
-<img alt="01-network-topology" src="https://github.com/Explorelrt/Configure-Access-Control/blob/main/topology/01-network-topology.png"></img>
+<img alt="01-network-topology" src="https://raw.githubusercontent.com/Explorelrt/Configure-Access-Control/blob/main/topology/01-network-topology.png"></img>
 <img alt="02-network-topology-ISP" src="https://github.com/Explorelrt/Configure-Access-Control/blob/main/topology/02-network-topology-ISP.png"></img>
 <img alt="03-network-topology-HQ" src="https://github.com/Explorelrt/Configure-Access-Control/blob/main/topology/03-network-topology-HQ.png"></img>
 
