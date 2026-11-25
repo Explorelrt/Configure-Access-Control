@@ -1,7 +1,7 @@
 # Implementing AAA Authentication and Network Services
 
 ## Project Overview
-This project demonstrates the configuration and implementation of AAA authentication for network services using Cisco Packet Tracer. 
+This project demonstrates the configuration and implementation of AAA authentication and network services using Cisco Packet Tracer. 
 The lab focuses on implementing AAA (Authentication, Authorization, and Accounting) for network services including wireless network services, email, and file transfer services to understand how network devices and servers manage secure access and communication.
 
 ## Objectives
